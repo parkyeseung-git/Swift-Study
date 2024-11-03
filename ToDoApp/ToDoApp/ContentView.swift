@@ -72,7 +72,7 @@ struct ContentView: View {
                     Text("Good👍")
                         .font(.headline)
                         .bold()
-                        .foregroundStyle(.green)
+                        .foregroundStyle(.green)                    
                 } else {
                     Text(item.title)
                 }
