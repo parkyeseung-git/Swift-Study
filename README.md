@@ -1,2 +1,2 @@
 # Swift-Study
-Swift 언어 공부
+Swift 공부
